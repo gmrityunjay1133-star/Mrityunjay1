@@ -1,4 +1,4 @@
 # Mrityunjay1
 This is my first git repository
 <br>
-Author_Mrityunjay Gupta
+Author_Mrityunjay Gupta(Krishna)
